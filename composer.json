@@ -1,5 +1,5 @@
 {
-    "name": "werkraum/environment-toolbar",
+    "name": "werkraum/typoe-environment-toolbar",
     "type": "typo3-cms-extension",
     "description": "Add the current TYPO3 context to the toolbar to avoid confusing live with development instances.",
     "license": "GPL-3.0-or-later",
