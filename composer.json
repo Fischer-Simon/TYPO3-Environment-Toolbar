@@ -1,0 +1,13 @@
+{
+    "name": "werkraum/environment-toolbar",
+    "type": "typo3-cms-extension",
+    "description": "Add the current TYPO3 context to the toolbar to avoid confusing live with development instances.",
+    "require": {
+        "typo3/cms-core": "^9.5"
+    },
+    "autoload": {
+        "psr-4": {
+            "Werkraum\\EnvironmentToolbar\\": "Classes"
+        }
+    }
+}
